@@ -1,0 +1,5 @@
+/node_modules
+/.env
+/registration.json
+/order.json
+/log.json
